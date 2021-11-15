@@ -1,0 +1,23 @@
+h1{
+margin: 40 0 40 0px;
+text-align:center;
+font-family: 'Rubik', sans-serif;
+}
+
+body{
+background-image: url("bank6.jpeg");
+}
+
+#san{
+opacity:0.73;
+}
+
+#button{
+margin:0 0 20 530px;
+}
+
+.about{
+
+font-family: 'Roboto', sans-serif;
+font-size: 35px;
+}
